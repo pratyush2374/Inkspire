@@ -1,7 +1,10 @@
 const Home : React.FC = () => {
   return (
     <>
-      <h1>Hello this is Inkspire</h1>
+      <div>
+        <h1>Home</h1>
+        <p>Welcome to the Home page</p>
+      </div>
     </>
   );
 }
